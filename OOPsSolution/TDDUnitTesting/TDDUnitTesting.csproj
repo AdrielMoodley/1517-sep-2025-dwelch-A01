@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OOPsReview\OOPsReview.csproj" />
-    <ProjectReference Include="..\UnitTestingForSystem\UnitTestingForSystem.csproj" />
   </ItemGroup>
 
   <ItemGroup>
